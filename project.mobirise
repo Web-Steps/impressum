@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-01-31_1426",
+    "name": "Impressum",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -28,6 +28,11 @@
         "isScrollToTopButton": false
       }
     },
+    "favicon": "@PROJECT_PATH@/assets/images/coffee-beans-2859974-128x122.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "",
+    "siteUrl": "undefined",
     "versionFirst": "4.6.2",
     "uniqCompNum": 6,
     "versionPublish": "4.6.2"
